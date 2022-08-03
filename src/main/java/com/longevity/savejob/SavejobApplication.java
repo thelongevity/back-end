@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SavejobApplication {
 
 	// main
-	// another main from hj
+	// push merge test by hj
 	public static void main(String[] args) {
 		SpringApplication.run(SavejobApplication.class, args);
 	}
